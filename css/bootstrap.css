@@ -457,7 +457,7 @@ mark,
 }
 
 .blockquote {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   font-size: 1.25rem;
 }
 
@@ -465,6 +465,7 @@ mark,
   display: block;
   font-size: 80%;
   color: #6c757d;
+  padding-bottom: 0.5rem;
 }
 
 .blockquote-footer::before {
@@ -4765,6 +4766,7 @@ input[type="button"].btn-block {
 
 .card-title {
   margin-bottom: 0.75rem;
+
 }
 
 .card-subtitle {
