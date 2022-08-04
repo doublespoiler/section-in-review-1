@@ -15,16 +15,14 @@
 
 .card-title{
   padding:5px;
-  font-weight: bolder;
 }
 
 .float-left{
-  padding-right: 15px;
+  padding-right: 5px;
 }
 
 .float-right{
   padding-left: 5px;
-  position:relative;
 }
 
 /* Personal declarations */
