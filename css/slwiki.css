@@ -1,0 +1,91 @@
+/* bootstrap delcarations */
+.jumbotron{
+  background-color:#F9F9F9;
+  border-color:#DDDDDD;
+}
+
+.container{
+  padding: 2em;
+}
+
+.card{
+  padding: 5px;
+  box-sizing:border-box;
+}
+
+.card-title{
+  padding:5px;
+  font-weight: bolder;
+}
+
+.float-left{
+  padding-right: 15px;
+}
+
+.float-right{
+  padding-left: 5px;
+  position:relative;
+}
+
+/* Personal declarations */
+.theme-green{
+  background-color: #F5FFFA;
+  border: 1px solid #CEF2E0;
+}
+
+.theme-blue{
+  background-color:#F5FAFF;
+  border-color:#CEDFF2;
+
+}
+
+.theme-purple{
+  background-color:#FAF5FF;
+  border-color:#DDCEF2;
+  text-align:center;
+}
+
+.theme-grey{
+  background-color:#FFFFFF;
+  border-color:#E2E2E2;
+}
+
+.sidebar{
+  width:20%;
+  float:left;
+  padding: 2em 2em;
+  font-size: 0.8em;
+}
+
+.jumbocol{
+  text-align:center;
+}
+
+.wikilogo{
+  width: 100%;
+}
+
+.ajustify{
+  text-align:justify;
+}
+
+.theme-green .card-title {
+  background-color: #CEF2E0;
+  border:1px solid #A3BFB1;
+}
+
+.theme-blue .card-title {
+  background-color: #CEDFF2;
+  border: 1px solid #A3B0BF;
+}
+
+.theme-purple .card-title {
+  background-color: #DDCEF2;
+  border:1px solid #AFA3BF;
+}
+
+.theme-grey .card-title {
+  background-color: #EEEEEE;
+  border:1px solid #DDDDDD;
+}
+
